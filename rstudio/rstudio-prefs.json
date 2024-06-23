@@ -1,0 +1,16 @@
+{
+    "jobs_tab_visibility": "shown",
+    "copilot_enabled": true,
+    "initial_working_directory": "~",
+    "syntax_color_console": true,
+    "cran_mirror": {
+        "name": "Spain (Madrid) [https]",
+        "host": "Spanish National Research Network, Madrid",
+        "url": "https://cran.rediris.es/",
+        "country": "es",
+        "ok": 1,
+        "secondary": ""
+    },
+    "posix_terminal_shell": "bash",
+    "editor_theme": "Material"
+}
